@@ -1,5 +1,5 @@
 # Bike Sales Dashboard
- Excel project created by Alex Freberg
+ Excel project created by [Alex Freberg](https://www.youtube.com/watch?v=opJgMj1IUrc)
 
 
 
